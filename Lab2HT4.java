@@ -1,9 +1,11 @@
 import java.util.Scanner;
-import static java.lang.String.LATIN1;
-import static java.lang.String.UTF16;
-import static java.lang.String.checkOffset;
-public class Task4 {
 
+public class Task4 {
+	
+/*Take three student name id,Section,CGPA,gender from user input
+	i)Print students id,section if gender is female and name length is 4
+	ii)Print students name,CGPA if gender is male and start with S*/
+	
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
 		String name1;
