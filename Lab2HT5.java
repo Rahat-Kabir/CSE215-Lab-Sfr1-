@@ -1,7 +1,17 @@
 import java.util.Scanner;
 
-public class HW5 {
+public class Lab2HT5 {
 
+	/* A person went to a City bank ATM Booth and entered his card to withdraw N amount of money.Now Consider the below cases;
+	   i)The withdraw amount must be greater than or equal to 500.Print "INVALID AMOUNT" if the condition does't match.
+	   ii)Amount must be multiple of 500.Print "IVALID VALUE" if the conditon does't satisfy.
+	   iii)The maximum amount must be less than or equal to 20,000.Print "EXCEEDED AMOUNT" in this case.
+	   iv)If the requested amount passes all above conditions, print "TRANSACTION SUCCESSFUL".
+	   v)Else print "Error Occured".
+	   
+	   note : Use Nested Switch-case to solve it
+	*/
+	
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
 		int amountOfMoney;
