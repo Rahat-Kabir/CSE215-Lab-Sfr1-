@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Lab3HT3 {
+public class Lab3HomeTask3 {
 	
 	/* Find the Sum of digit of a Number
 	 EX. Sum of digits of 432 is 4+2+3 = 9 */
