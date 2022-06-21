@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Lab2HT5 {
+public class Lab2HomeTask5 {
 
 	/* A person went to a City bank ATM Booth and entered his card to withdraw N amount of money.Now Consider the below cases;
 	   i)The withdraw amount must be greater than or equal to 500.Print "INVALID AMOUNT" if the condition does't match.
