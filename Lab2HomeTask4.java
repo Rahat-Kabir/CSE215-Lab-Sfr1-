@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Task4 {
+public class Lab2HomeTask4 {
 	
 /*Take three student name id,Section,CGPA,gender from user input
 	i)Print students id,section if gender is female and name length is 4
